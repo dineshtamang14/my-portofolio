@@ -1,0 +1,46 @@
+.nav__name {
+    position: absolute;
+    width: 78px;
+    height: 35px;
+    left: 33px;
+    top: 23px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #CCC7F7;
+}
+
+.nav__ham {
+    position: absolute;
+    width: 30px;
+    height: 19px;
+    left: 418px;
+    top: 32px;
+}
+
+.top {
+    position: absolute;
+    width: 30px;
+    height: 3px;
+    left: 418px;
+    top: 32px;
+    background: #CCC7F7;
+}
+
+.middle {
+    position: absolute;
+    width: 30px;
+    height: 3px;
+    left: 418px;
+    top: 40px;
+}
+
+.bottom {
+    position: absolute;
+    width: 30px;
+    height: 3px;
+    left: 418px;
+    top: 32px;
+    background: #CCC7F7;
+}
